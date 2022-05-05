@@ -16,8 +16,6 @@ https://user-images.githubusercontent.com/87932748/161400570-060225fb-4d2a-44f5-
 
 ### Login Interface
 ![Login Form](images/1.jpg)
-### Login Interface
-![Login Form](images/1.jpg)
 
 <h1 align="center"></h1>
 
